@@ -1,12 +1,12 @@
-ni## Hi there 👋
+## Hi there 👋
 
 <!--
 **riyaj-kalegar03/riyaj-kalegar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on chatbot ap
-- 🌱 I’m currently learning MERN stack
+- 🔭 I’m currently working on mern projects
+- 🌱 I’m currently learning react redux
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
